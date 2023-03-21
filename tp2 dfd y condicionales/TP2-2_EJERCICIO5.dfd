@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+5
+PARES
+1
+0
+3
+IMP
+1
+0
+4
+1
+18
+'Ingrese un valor'
+5
+1
+1
+N
+9
+1
+4
+N!=0
+7
+0
+1
+11
+N MOD 2 = 0
+6
+1
+3
+IMP
+5
+IMP+1
+13
+6
+1
+5
+PARES
+7
+PARES+1
+13
+5
+1
+1
+N
+11
+4
+1
+27
+'CANTIDAD DE PARES: ',PARES
+4
+1
+27
+'CANTIDAD DE IMPARES: ',IMP
+1

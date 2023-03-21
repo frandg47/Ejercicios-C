@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+1
+A
+1
+1
+9
+1
+4
+A!=0
+4
+1
+53
+'INGRESE LAS FECHAS E INGRESE 0 EN AÑO PARA TERMINAR'
+4
+1
+5
+'DIA'
+5
+1
+1
+D
+4
+1
+5
+'MES'
+5
+1
+1
+M
+4
+1
+5
+'AÑO'
+5
+1
+1
+A
+7
+0
+1
+63
+(D>=1 AND D<=31) AND (M>=1 AND M<=12) AND (A>=1000 AND A<=5000)
+4
+1
+27
+'FECHA NO VALIDA INGRESADA'
+13
+4
+1
+24
+'FECHA VALIDA INGRESADA'
+13
+11
+1
